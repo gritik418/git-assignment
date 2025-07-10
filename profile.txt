@@ -1,2 +1,3 @@
 Name: Ritik Gupta
 City: Jagadhri
+Skills: Typescript, React, Next.js
